@@ -7,7 +7,3 @@ for(int i ; dato=="3";i++)
   print("salir(3)")
   dato = input();
 
-
-
-
-
